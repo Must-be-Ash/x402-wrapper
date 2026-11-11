@@ -1,5 +1,7 @@
 # x402 Endpoint Wrapper Service
 
+> **Outdated, not maintained.** This is an x402 v1 example. x402 v2 has since been released; we recommend updating to v2 ([migration guide](https://docs.x402.org/guides/migration-v1-to-v2)).
+
 A Next.js application that wraps existing HTTP API endpoints with the x402 micropayment protocol, enabling instant monetization using USDC on Base network.
 
 ## Overview
